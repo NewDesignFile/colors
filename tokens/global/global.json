@@ -4,31 +4,131 @@
     "type": "color"
   },
   "$red02": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 100%, 89%)",
     "type": "color"
   },
   "$red03": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 100%, 79%)",
     "type": "color"
   },
   "$red04": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 100%, 63%)",
     "type": "color"
   },
   "$red05": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 100%, 59%)",
     "type": "color"
   },
   "$red06": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 68%, 31%)",
     "type": "color"
   },
   "$red07": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(3, 69%, 16%)",
     "type": "color"
   },
   "$red08": {
-    "value": "hsl(2, 100%, 95%)",
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange01": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange02": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange03": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange04": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange05": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange06": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange07": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$orange08": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow01": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow02": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow03": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow04": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow05": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow06": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow07": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$yellow08": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green01": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green02": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green03": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green04": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green05": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green06": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green07": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$green08": {
+    "value": "hsl(2, 68%, 7%)",
+    "type": "color"
+  },
+  "$mint01": {
+    "value": "hsl(2, 68%, 7%)",
     "type": "color"
   }
 }
