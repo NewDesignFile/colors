@@ -1,14 +1,14 @@
 {
-  "name": "@sargamdesign/colors",
-  "version": "2.0.0",
-  "description": "A simple scalable color system for designing warm welcoming, caring websites and apps.",
+  "name": "@newui/colors",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build:tokens": "node ./build-tokens.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SargamDesign/sargam-colors.git"
+    "url": "git+https://github.com/NewDesignFile/colors.git"
   },
   "keywords": [
     "colors",
@@ -21,11 +21,11 @@
     "color-system"
   ],
   "author": "Abhimanyu Rana",
-  "license": "MIT",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/SargamDesign/sargam-colors/issues"
+    "url": "https://github.com/NewDesignFile/colors/issues"
   },
-  "homepage": "https://github.com/SargamDesign/sargam-colors#readme",
+  "homepage": "https://github.com/NewDesignFile/colors#readme",
   "devDependencies": {
     "style-dictionary": "^3.7.1"
   }
