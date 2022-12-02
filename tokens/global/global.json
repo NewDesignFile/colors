@@ -160,235 +160,235 @@
     "type": "color"
   },
   "$teal01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(190, 56%, 94%)",
     "type": "color"
   },
   "$teal02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 57%, 85%)",
     "type": "color"
   },
   "$teal03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 58%, 73%)",
     "type": "color"
   },
   "$teal04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 57%, 52%)",
     "type": "color"
   },
   "$teal05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 61%, 48%)",
     "type": "color"
   },
   "$teal06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 61%, 37%)",
     "type": "color"
   },
   "$teal07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 61%, 25%)",
     "type": "color"
   },
   "$teal08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(189, 62%, 13%)",
     "type": "color"
   },
   "$cyan01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 79%, 95%)",
     "type": "color"
   },
   "$cyan02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 78%, 87%)",
     "type": "color"
   },
   "$cyan03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 78%, 76%)",
     "type": "color"
   },
   "$cyan04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 78%, 58%)",
     "type": "color"
   },
   "$cyan05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 78%, 55%)",
     "type": "color"
   },
   "$cyan06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 64%, 42%)",
     "type": "color"
   },
   "$cyan07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 64%, 29%)",
     "type": "color"
   },
   "$cyan08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(199, 64%, 15%)",
     "type": "color"
   },
   "$blue01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 94%)",
     "type": "color"
   },
   "$blue02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 86%)",
     "type": "color"
   },
   "$blue03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 74%)",
     "type": "color"
   },
   "$blue04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 54%)",
     "type": "color"
   },
   "$blue05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 50%)",
     "type": "color"
   },
   "$blue06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 38%)",
     "type": "color"
   },
   "$blue07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 26%)",
     "type": "color"
   },
   "$blue08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(211, 100%, 14%)",
     "type": "color"
   },
   "$indigo01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(244, 62%, 95%)",
     "type": "color"
   },
   "$indigo02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(242, 62%, 89%)",
     "type": "color"
   },
   "$indigo03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(241, 61%, 79%)",
     "type": "color"
   },
   "$indigo04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(241, 61%, 62%)",
     "type": "color"
   },
   "$indigo05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(241, 61%, 59%)",
     "type": "color"
   },
   "$indigo06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(241, 43%, 45%)",
     "type": "color"
   },
   "$indigo07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(241, 43%, 31%)",
     "type": "color"
   },
   "$indigo08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(242, 43%, 16%)",
     "type": "color"
   },
   "$purple01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(279, 68%, 95%)",
     "type": "color"
   },
   "$purple02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(280, 68%, 89%)",
     "type": "color"
   },
   "$purple03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(279, 68%, 79%)",
     "type": "color"
   },
   "$purple04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(280, 68%, 63%)",
     "type": "color"
   },
   "$purple05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(280, 68%, 60%)",
     "type": "color"
   },
   "$purple06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(280, 46%, 45%)",
     "type": "color"
   },
   "$purple07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(279, 46%, 31%)",
     "type": "color"
   },
   "$purple08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(280, 46%, 17%)",
     "type": "color"
   },
   "$pink01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(348, 100%, 95%)",
     "type": "color"
   },
   "$pink02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 100%, 89%)",
     "type": "color"
   },
   "$pink03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 100%, 78%)",
     "type": "color"
   },
   "$pink04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 100%, 62%)",
     "type": "color"
   },
   "$pink05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 100%, 59%)",
     "type": "color"
   },
   "$pink06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(348, 70%, 45%)",
     "type": "color"
   },
   "$pink07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 71%, 31%)",
     "type": "color"
   },
   "$pink08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(349, 69%, 16%)",
     "type": "color"
   },
   "$brown01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(33, 29%, 94%)",
     "type": "color"
   },
   "$brown02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(35, 27%, 86%)",
     "type": "color"
   },
   "$brown03": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(34, 26%, 74%)",
     "type": "color"
   },
   "$brown04": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(34, 26%, 54%)",
     "type": "color"
   },
   "$brown05": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(34, 27%, 50%)",
     "type": "color"
   },
   "$brown06": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(33, 26%, 38%)",
     "type": "color"
   },
   "$brown07": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(34, 26%, 26%)",
     "type": "color"
   },
   "$brown08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(35, 27%, 14%)",
     "type": "color"
   },
   "$grey01": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(0, 0%, 96%)",
     "type": "color"
   },
   "$grey02": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(0, 0%, 88%)",
     "type": "color"
   },
   "$grey03": {
@@ -512,6 +512,4 @@
     "type": "color"
   }
 }
-
-
 
