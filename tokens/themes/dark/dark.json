@@ -1,0 +1,6 @@
+{
+  "$background": {
+    "value": "{$grey10}",
+    "type": "color"
+  }
+}
