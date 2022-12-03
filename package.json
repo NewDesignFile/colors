@@ -1,7 +1,7 @@
 {
   "name": "@new-ui/colors",
   "version": "0.1.0",
-  "description": "",
+  "description": "![](help/dark.png)",
   "main": "index.js",
   "scripts": {
     "build:tokens": "node ./build-tokens.js"
