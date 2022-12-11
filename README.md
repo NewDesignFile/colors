@@ -1,6 +1,6 @@
-![](help/dark.png)
+![](help/light.png)
 
-## Install:
+## Install
 Install New UI Colors from your terminal via npm. Current version is 0.1.0
 
 ```
@@ -20,3 +20,20 @@ Dark theme:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.1.0/dist/themes/dark.css">
 ```
 
+## Build
+
+To build themes from tokens.
+
+```
+npm install
+```
+
+Light theme: 
+```
+npm run build:tokens -- --theme=light
+```
+
+Dark theme: 
+```
+npm run build:tokens -- --theme=light
+```
