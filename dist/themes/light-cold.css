@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 11 Dec 2022 21:08:15 GMT
+ * Generated on Sun, 11 Dec 2022 21:07:21 GMT
  */
 
 :root {
@@ -132,5 +132,53 @@
   --red3: hsl(3, 100%, 79%);
   --red2: hsl(3, 100%, 89%);
   --red1: hsl(2, 100%, 95%);
-  --background: var(--black);
+  --text-success: var(--green6);
+  --text-error: var(--red6);
+  --text-on-color: var(--white);
+  --text-placeholder: var(--cold4);
+  --text-secondary: var(--cold7);
+  --text-primary-alt: var(--cold8);
+  --text-primary: var(--cold10);
+  --support-info: var(--blue5);
+  --support-success: var(--green5);
+  --support-warning: var(--yellow5);
+  --support-error: var(--red5);
+  --link-visited: var(--indigo5);
+  --link-subtle: var(--cold7);
+  --link-hover: var(--blue6);
+  --link: var(--blue5);
+  --icon-on-color: var(--white);
+  --icon-disabled: var(--cold7);
+  --icon-secondary: var(--cold8);
+  --icon-primary: var(--cold9);
+  --button-disabled: var(--cold4);
+  --button-danger-active: var(--red7);
+  --button-danger-hover: var(--red6);
+  --button-danger: var(--red5);
+  --button-secondary-active: var(--cold6);
+  --button-secondary-hover: var(--cold7);
+  --button-secondary: var(--cold8);
+  --button-primary-active: var(--blue7);
+  --button-primary-hover: var(--blue6);
+  --button-primary: var(--blue5);
+  --border-strong: var(--cold6);
+  --border-default: var(--cold4);
+  --border-muted: var(--cold2);
+  --background-brown: var(--brown1);
+  --background-pink: var(--pink1);
+  --background-purple: var(--purple1);
+  --background-indigo: var(--indigo1);
+  --background-blue: var(--blue1);
+  --background-cyan: var(--cyan1);
+  --background-teal: var(--teal1);
+  --background-mint: var(--mint1);
+  --background-green: var(--green1);
+  --background-yellow: var(--yellow1);
+  --background-orange: var(--orange1);
+  --background-red: var(--red1);
+  --background-selected-hover: var(--cold3);
+  --background-selected: var(--cold2);
+  --background-hover: var(--cold1);
+  --background-secondary: var(--cold1);
+  --background: var(--white);
 }

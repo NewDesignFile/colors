@@ -4,19 +4,19 @@
     "type": "color"
   },
   "$background-secondary": {
-    "value": "{$grey1}",
+    "value": "{$cold1}",
     "type": "color"
   },
   "$background-hover": {
-    "value": "{$grey1}",
+    "value": "{$cold1}",
     "type": "color"
   },
   "$background-selected": {
-    "value": "{$grey2}",
+    "value": "{$cold2}",
     "type": "color"
   },
   "$background-selected-hover": {
-    "value": "{$grey3}",
+    "value": "{$cold3}",
     "type": "color"
   },
   "$background-red": {
@@ -68,15 +68,15 @@
     "type": "color"
   },
   "$border-muted": {
-    "value": "{$grey2}",
+    "value": "{$cold2}",
     "type": "color"
   },
   "$border-default": {
-    "value": "{$grey4}",
+    "value": "{$cold4}",
     "type": "color"
   },
   "$border-strong": {
-    "value": "{$grey6}",
+    "value": "{$cold6}",
     "type": "color"
   },
   "$button-primary": {
@@ -92,15 +92,15 @@
     "type": "color"
   },
   "$button-secondary": {
-    "value": "{$grey8}",
+    "value": "{$cold8}",
     "type": "color"
   },
   "$button-secondary-hover": {
-    "value": "{$grey7}",
+    "value": "{$cold7}",
     "type": "color"
   },
   "$button-secondary-active": {
-    "value": "{$grey6}",
+    "value": "{$cold6}",
     "type": "color"
   },
   "$button-danger": {
@@ -116,19 +116,19 @@
     "type": "color"
   },
   "$button-disabled": {
-    "value": "{$grey4}",
+    "value": "{$cold4}",
     "type": "color"
   },
   "$icon-primary": {
-    "value": "{$grey9}",
+    "value": "{$cold9}",
     "type": "color"
   },
   "$icon-secondary": {
-    "value": "{$grey8}",
+    "value": "{$cold8}",
     "type": "color"
   },
   "$icon-disabled": {
-    "value": "{$grey7}",
+    "value": "{$cold7}",
     "type": "color"
   },
   "$icon-on-color": {
@@ -144,7 +144,7 @@
     "type": "color"
   },
   "$link-subtle": {
-    "value": "{$grey7}",
+    "value": "{$cold7}",
     "type": "color"
   },
   "$link-visited": {
@@ -168,19 +168,19 @@
     "type": "color"
   },
   "$text-primary": {
-    "value": "{$grey10}",
+    "value": "{$cold10}",
     "type": "color"
   },
   "$text-primary-alt": {
-    "value": "{$grey8}",
+    "value": "{$cold8}",
     "type": "color"
   },
   "$text-secondary": {
-    "value": "{$grey7}",
+    "value": "{$cold7}",
     "type": "color"
   },
   "$text-placeholder": {
-    "value": "{$grey4}",
+    "value": "{$cold4}",
     "type": "color"
   },
   "$text-on-color": {

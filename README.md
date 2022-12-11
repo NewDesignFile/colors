@@ -30,11 +30,15 @@ npm install
 Light theme: 
 ```
 npm run build:tokens -- --theme=light
+npm run build:tokens -- --theme=light-warm
+npm run build:tokens -- --theme=light-cold
 ```
 
 Dark theme: 
 ```
-npm run build:tokens -- --theme=light
+npm run build:tokens -- --theme=dark
+npm run build:tokens -- --theme=dark-warm
+npm run build:tokens -- --theme=dark-cold
 ```
 
 ## Get a Figma copy
