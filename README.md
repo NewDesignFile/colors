@@ -1,7 +1,7 @@
 ![](help/dark.png)
 
 ## Install
-Install New UI Colors from your terminal via npm. Current version is 0.2.0
+Install New UI Colors from your terminal via npm. Current version is 0.3.0
 
 ```
 npm i @new-ui/colors
@@ -9,14 +9,26 @@ npm i @new-ui/colors
 
 To get started quickly, you can use the CDN files.
 
-Light theme: 
+Light themes: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.2.0/dist/themes/light.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light.css">
+```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light-warm.css">
+```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light-cold.css">
 ```
 
-Dark theme: 
+Dark themes [WIP]: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.2.0/dist/themes/dark.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark.css">
+```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark-warm.css">
+```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark-cold.css">
 ```
 
 ## Build
@@ -27,14 +39,14 @@ To build themes from tokens.
 npm install
 ```
 
-Light theme: 
+Light themes: 
 ```
 npm run build:tokens -- --theme=light
 npm run build:tokens -- --theme=light-warm
 npm run build:tokens -- --theme=light-cold
 ```
 
-Dark theme: 
+Dark themes: 
 ```
 npm run build:tokens -- --theme=dark
 npm run build:tokens -- --theme=dark-warm
