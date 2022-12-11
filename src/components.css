@@ -1,0 +1,73 @@
+/* Borders */
+.bg {background-color: var(--white);}
+.bg-secondary {background-color: var(--grey1);}
+.bg-hover {background-color: var(--grey1);}
+.bg-selected {background-color: var(--grey2);}
+.bg-selected-hover {background-color: var(--grey3);}
+.bg-red {background-color: var(--red1);}
+.bg-orange {background-color: var(--orange1);}
+.bg-yellow {background-color: var(--yellow1);}
+.bg-green {background-color: var(--green);}
+.bg-mint {background-color: var(--mint);}
+.bg-teal {background-color: var(--teal1);}
+.bg-cyan {background-color: var(--cyan1);}
+.bg-blue {background-color: var(--blue1);}
+.bg-indigo {background-color: var(--indigo1);}
+.bg-purple {background-color: var(--purple1);}
+.bg-pink {background-color: var(--pink);}
+.bg-brown {background-color: var(--brown);}
+
+.bg-black {background-color: var(--black);}
+.bg-white {background-color: var(--white);}
+
+/* Border */
+.b--muted {border-color: var(--grey-2);}
+.b {border-color: var(--grey4);}
+.b--strong {border-color: var(--grey6);}
+
+/* Buttons */
+.btn--primary {background-color: var(--blue5);}
+.btn--primary:hover {background-color: var(--blue6);}
+.btn--primary:active {background-color: var(--blue7);}
+
+.btn--secondary {background-color: var(--grey8);}
+.btn--secondary:hover {background-color: var(--grey7);}
+.btn--secondary:active {background-color: var(--grey6);}
+
+.btn--danger {background-color: var(--red5);}
+.btn--danger:hover {background-color: var(--red6);}
+.btn--danger:active {background-color: var(--red7);}
+
+.btn--disabled {background-color: var(--grey4);}
+
+/* Icons */
+.icon--primary {color: var(--grey9);}
+.icon--secondary {color: var(--grey7);}
+.icon--disabled {color: var(--grey4);}
+.icon--on-color {color: var(--white);}
+
+/* Links */
+.link {color: var(--blue5);}
+.link:hover {color: var(--blue6);}
+.link--subtle {color: var(--grey8);}
+.link:visited {color: var(--indigo5);}
+
+/* Support */
+.support-error {color: var(--red5);}
+.support-warning {color: var(--yellow5);}
+.support-success {color: var(--green5);}
+.support-info {color: var(--blue5);}
+
+/* Text */
+.text--primary {color: var(--grey10);}
+.text--primary-alt {color: var(--grey8);}
+.text--secondary {color: var(--grey7);}
+.text-placeholder::placeholder, 
+.text-placeholder::webkit-input-placeholder,
+.text-placeholder:ms-input-placeholder {color: var(--grey4);}
+.text--on-color {color: var(--white);}
+.text-error {color: var(--red6);}
+.text-success {color: var(--green6);}
+
+.text-black {color: var(--black);}
+.text-white {color: var(--white);}
