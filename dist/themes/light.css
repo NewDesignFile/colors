@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 19:43:03 GMT
+ * Generated on Sun, 11 Dec 2022 15:24:57 GMT
  */
 
 :root {
@@ -124,9 +124,9 @@
   --orange03: hsl(35, 100%, 74%);
   --orange02: hsl(35, 100%, 86%);
   --orange01: hsl(35, 100%, 94%);
-  --red08: hsl(2, 68%, 7%);
-  --red07: hsl(3, 69%, 16%);
-  --red06: hsl(3, 68%, 31%);
+  --red08: hsl(3, 69%, 16%);
+  --red07: hsl(3, 68%, 31%);
+  --red06: hsl(3, 68%, 45%);
   --red05: hsl(3, 100%, 59%);
   --red04: hsl(3, 100%, 63%);
   --red03: hsl(3, 100%, 79%);

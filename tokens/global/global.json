@@ -20,15 +20,15 @@
     "type": "color"
   },
   "$red06": {
-    "value": "hsl(3, 68%, 31%)",
+    "value": "hsl(3, 68%, 45%)",
     "type": "color"
   },
   "$red07": {
-    "value": "hsl(3, 69%, 16%)",
+    "value": "hsl(3, 68%, 31%)",
     "type": "color"
   },
   "$red08": {
-    "value": "hsl(2, 68%, 7%)",
+    "value": "hsl(3, 69%, 16%)",
     "type": "color"
   },
   "$orange01": {
