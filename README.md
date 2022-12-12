@@ -53,7 +53,7 @@ npm run build:tokens -- --theme=dark-warm
 npm run build:tokens -- --theme=dark-cold
 ```
 
-## Get a Figma copy
+## Cheatsheet
 Refer to the Figma file for the color tokens cheatsheet.
 
-[New UI Colors](https://www.figma.com/community/file/1179503548902179413)
+[Get a Figma copy](https://www.figma.com/community/file/1179503548902179413)
