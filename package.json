@@ -1,7 +1,7 @@
 {
   "name": "@new-ui/colors",
-  "version": "0.3.0",
-  "description": "![](help/dark.png)",
+  "version": "1.0.0",
+  "description": "Colors are now one less thing to worry about.",
   "main": "index.js",
   "scripts": {
     "build:tokens": "node ./build-tokens.js"

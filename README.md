@@ -1,7 +1,7 @@
 ![](help/dark.png)
 
 ## Install
-Install New UI Colors from your terminal via npm. Current version is 0.3.0
+Install New UI Colors from your terminal via npm. Current version is 1.0.0
 
 ```
 npm i @new-ui/colors
@@ -11,24 +11,24 @@ To get started quickly, you can use the CDN files.
 
 Light themes: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light-warm.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-warm.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/light-cold.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-cold.css">
 ```
 
-Dark themes [WIP]: 
+Dark themes: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark.css">
-```
-```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark-warm.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@0.3.0/dist/themes/dark-cold.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-warm.css">
+```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-cold.css">
 ```
 
 ## Build
@@ -54,5 +54,6 @@ npm run build:tokens -- --theme=dark-cold
 ```
 
 ## Get a Figma copy
+Refer to the Figma file for the color tokens cheatsheet.
 
-[New UI Colors - Light](https://www.figma.com/community/file/1179503548902179413)
+[New UI Colors](https://www.figma.com/community/file/1179503548902179413)

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 11 Dec 2022 21:08:08 GMT
+ * Generated on Mon, 12 Dec 2022 16:49:40 GMT
  */
 
 :root {
@@ -132,5 +132,53 @@
   --red3: hsl(3, 100%, 79%);
   --red2: hsl(3, 100%, 89%);
   --red1: hsl(2, 100%, 95%);
-  --background: var(--black);
+  --text-success: var(--green4);
+  --text-error: var(--red4);
+  --text-on-color: var(--white);
+  --text-placeholder: var(--cold6);
+  --text-secondary: var(--cold5);
+  --text-primary-alt: var(--cold3);
+  --text-primary: var(--cold1);
+  --support-info: var(--blue4);
+  --support-success: var(--green4);
+  --support-warning: var(--yellow4);
+  --support-error: var(--red4);
+  --link-visited: var(--indigo4);
+  --link-subtle: var(--cold1);
+  --link-hover: var(--blue3);
+  --link: var(--blue4);
+  --icon-on-color: var(--white);
+  --icon-disabled: var(--cold7);
+  --icon-secondary: var(--cold4);
+  --icon-primary: var(--cold2);
+  --button-disabled: var(--cold6);
+  --button-danger-active: var(--red3);
+  --button-danger-hover: var(--red3);
+  --button-danger: var(--red4);
+  --button-secondary-active: var(--cold3);
+  --button-secondary-hover: var(--cold2);
+  --button-secondary: var(--cold1);
+  --button-primary-active: var(--blue3);
+  --button-primary-hover: var(--blue3);
+  --button-primary: var(--blue4);
+  --border-strong: var(--cold5);
+  --border-default: var(--cold7);
+  --border-muted: var(--cold9);
+  --background-brown: var(--brown8);
+  --background-pink: var(--pink8);
+  --background-purple: var(--purple8);
+  --background-indigo: var(--indigo8);
+  --background-blue: var(--blue8);
+  --background-cyan: var(--cyan8);
+  --background-teal: var(--teal8);
+  --background-mint: var(--mint8);
+  --background-green: var(--green8);
+  --background-yellow: var(--yellow8);
+  --background-orange: var(--orange8);
+  --background-red: var(--red8);
+  --background-selected-hover: var(--cold7);
+  --background-selected: var(--cold8);
+  --background-hover: var(--cold9);
+  --background-secondary: var(--cold9);
+  --background: var(--cold10);
 }
