@@ -11,24 +11,24 @@ To get started quickly, you can use the CDN files.
 
 Light themes: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light.min.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-warm.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-warm.min.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-cold.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/light-cold.min.css">
 ```
 
 Dark themes: 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark.min.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-warm.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-warm.min.css">
 ```
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-cold.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors@1.0.0/dist/themes/dark-cold.min.css">
 ```
 
 ## Build
