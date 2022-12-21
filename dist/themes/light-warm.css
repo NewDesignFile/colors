@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Dec 2022 16:49:04 GMT
+ * Generated on Wed, 21 Dec 2022 20:53:01 GMT
  */
 
 :root {
@@ -144,12 +144,12 @@
   --support-warning: var(--yellow5);
   --support-error: var(--red5);
   --link-visited: var(--indigo5);
-  --link-subtle: var(--warm7);
+  --link-subtle: var(--warm8);
   --link-hover: var(--blue6);
   --link: var(--blue5);
   --icon-on-color: var(--white);
-  --icon-disabled: var(--warm7);
-  --icon-secondary: var(--warm8);
+  --icon-disabled: var(--warm4);
+  --icon-secondary: var(--warm7);
   --icon-primary: var(--warm9);
   --button-disabled: var(--warm4);
   --button-danger-active: var(--red7);

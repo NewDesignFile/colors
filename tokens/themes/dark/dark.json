@@ -116,7 +116,7 @@
     "type": "color"
   },
   "$button-disabled": {
-    "value": "{$grey6}",
+    "value": "{$grey9}",
     "type": "color"
   },
   "$icon-primary": {
@@ -128,7 +128,7 @@
     "type": "color"
   },
   "$icon-disabled": {
-    "value": "{$grey7}",
+    "value": "{$grey8}",
     "type": "color"
   },
   "$icon-on-color": {

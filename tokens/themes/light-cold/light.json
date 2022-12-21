@@ -124,11 +124,11 @@
     "type": "color"
   },
   "$icon-secondary": {
-    "value": "{$cold8}",
+    "value": "{$cold7}",
     "type": "color"
   },
   "$icon-disabled": {
-    "value": "{$cold7}",
+    "value": "{$cold4}",
     "type": "color"
   },
   "$icon-on-color": {
@@ -144,7 +144,7 @@
     "type": "color"
   },
   "$link-subtle": {
-    "value": "{$cold7}",
+    "value": "{$cold8}",
     "type": "color"
   },
   "$link-visited": {

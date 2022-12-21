@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Dec 2022 16:49:35 GMT
+ * Generated on Wed, 21 Dec 2022 20:53:16 GMT
  */
 
 :root {
@@ -148,10 +148,10 @@
   --link-hover: var(--blue3);
   --link: var(--blue4);
   --icon-on-color: var(--white);
-  --icon-disabled: var(--warm7);
+  --icon-disabled: var(--warm8);
   --icon-secondary: var(--warm4);
   --icon-primary: var(--warm2);
-  --button-disabled: var(--warm6);
+  --button-disabled: var(--warm9);
   --button-danger-active: var(--red3);
   --button-danger-hover: var(--red3);
   --button-danger: var(--red4);
