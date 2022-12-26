@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Dec 2022 20:53:22 GMT
+ * Generated on Mon, 26 Dec 2022 09:03:08 GMT
  */
 
 :root {
@@ -162,7 +162,7 @@
   --button-primary-hover: var(--blue3);
   --button-primary: var(--blue4);
   --border-strong: var(--cold5);
-  --border-default: var(--cold7);
+  --border: var(--cold7);
   --border-muted: var(--cold9);
   --background-brown: var(--brown8);
   --background-pink: var(--pink8);

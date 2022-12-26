@@ -71,7 +71,7 @@
     "value": "{$cold9}",
     "type": "color"
   },
-  "$border-default": {
+  "$border": {
     "value": "{$cold7}",
     "type": "color"
   },

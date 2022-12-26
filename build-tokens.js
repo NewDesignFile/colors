@@ -2,7 +2,7 @@ const StyleDictionary = require("style-dictionary");
 const args = require("minimist")(process.argv.slice(2));
 const theme = args.theme ? args.theme : "primary";
 
-console.log(`🚧 Compiling tokens with the ${theme.toUpperCase()} theme`);
+console.log(`Compiling tokens with the ${theme.toUpperCase()} theme ...`);
 
 const getStyleDictionaryConfig = (theme) => {
   return {

@@ -1,6 +1,6 @@
 {
   "name": "@new-ui/colors",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Colors are now one less thing to worry about.",
   "main": "index.js",
   "scripts": {

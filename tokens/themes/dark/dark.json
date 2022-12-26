@@ -71,7 +71,7 @@
     "value": "{$grey9}",
     "type": "color"
   },
-  "$border-default": {
+  "$border": {
     "value": "{$grey7}",
     "type": "color"
   },

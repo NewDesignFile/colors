@@ -71,7 +71,7 @@
     "value": "{$warm9}",
     "type": "color"
   },
-  "$border-default": {
+  "$border": {
     "value": "{$warm7}",
     "type": "color"
   },
