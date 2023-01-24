@@ -11,7 +11,7 @@ To get started quickly, you can use the CDN files.
  
 ```html
 <!-- Place this at the html head -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors/dist/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors/dist/colors.css">
 
 <!-- Add this attribute to body -->
 <body data-new-ui-theme="light">
