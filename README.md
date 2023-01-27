@@ -11,10 +11,10 @@ To get started quickly, you can use the CDN files.
  
 ```html
 <!-- Place this at the html head -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors/dist/colors.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@new-ui/colors/dist/main.css">
 
-<!-- Add this attribute to body -->
-<body data-new-ui-theme="light">
+<!-- Add this attribute to html wrapper -->
+<html data-new-ui-theme="light">
 ...
 ```
 
