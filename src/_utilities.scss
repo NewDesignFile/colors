@@ -284,20 +284,6 @@
 .nu-u-icon--disabled {color: var(--grey4);}
 .nu-u-icon--on-color {color: var(--white);}
 
-/* Links */
-.nu-u-link {
-  color: var(--blue5);
-  &:hover {
-    color: var(--blue6);
-  }
-}
-.nu-u-link--subtle {
-  color: var(--grey8);
-  &:hover {
-    color: var(--indigo5);
-  }
-}
-
 /* Support */
 .nu-u-support--error {color: var(--red5);}
 .nu-u-support--warning {color: var(--yellow5);}

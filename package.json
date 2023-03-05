@@ -1,6 +1,6 @@
 {
   "name": "@new-ui/colors",
-  "version": "1.2.3",
+  "version": "1.2.6",
   "description": "Colors are now one less thing to worry about.",
   "source": "src/index.scss",
   "main": "dist/index.css",
