@@ -237,55 +237,58 @@
 .nu-u-text-grey9 {color: var(--grey9);}
 .nu-u-text-grey10 {color: var(--grey10);}
 
-.nu-u-bg {background-color: var(--white);}
-.nu-u-bg-secondary {background-color: var(--grey1);}
-.nu-u-bg-hover {background-color: var(--grey1);}
-.nu-u-bg-selected {background-color: var(--grey2);}
-.nu-u-bg-selected-hover {background-color: var(--grey3);}
-.nu-u-bg-red {background-color: var(--red1);}
-.nu-u-bg-orange {background-color: var(--orange1);}
-.nu-u-bg-yellow {background-color: var(--yellow1);}
-.nu-u-bg-green {background-color: var(--green);}
-.nu-u-bg-mint {background-color: var(--mint);}
-.nu-u-bg-teal {background-color: var(--teal1);}
-.nu-u-bg-cyan {background-color: var(--cyan1);}
-.nu-u-bg-blue {background-color: var(--blue1);}
-.nu-u-bg-indigo {background-color: var(--indigo1);}
-.nu-u-bg-purple {background-color: var(--purple1);}
-.nu-u-bg-pink {background-color: var(--pink);}
-.nu-u-bg-brown {background-color: var(--brown);}
+.nu-u-bg {background-color: var(--background);}
+.nu-u-bg-secondary {background-color: var(--background-secondary);}
+.nu-u-bg-hover {background-color: var(--background-hover);}
+.nu-u-bg-selected {background-color: var(--background-selected);}
+.nu-u-bg-selected-hover {background-color: var(--background-selected-hover);}
+.nu-u-bg-red {background-color: var(--background-red);}
+.nu-u-bg-orange {background-color: var(--background-orange);}
+.nu-u-bg-yellow {background-color: var(--background-yellow);}
+.nu-u-bg-green {background-color: var(--background-green);}
+.nu-u-bg-mint {background-color: var(--background-mint);}
+.nu-u-bg-teal {background-color: var(--background-teal);}
+.nu-u-bg-cyan {background-color: var(--background-cyan);}
+.nu-u-bg-blue {background-color: var(--background-blue);}
+.nu-u-bg-indigo {background-color: var(--background-indigo);}
+.nu-u-bg-purple {background-color: var(--background-blue);}
+.nu-u-bg-pink {background-color: var(--background-pink);}
+.nu-u-bg-brown {background-color: var(--background-brown);}
 
 .nu-u-bg-black {background-color: var(--black);}
 .nu-u-bg-white {background-color: var(--white);}
 
 /* Border */
-.nu-u-b--muted {border-color: var(--grey-2);}
-.nu-u-b {border-color: var(--grey4);}
-.nu-u-b--strong {border-color: var(--grey6);}
+.nu-u-b--muted {border-color: var(--border-muted);}
+.nu-u-b {border-color: var(--border);}
+.nu-u-b--strong {border-color: var(--border-strong);}
+.nu-u-b--inked {border-color: var(--border-inked);}
+.nu-u-b--inverse {border-color: var(--border-inverse);}
+.nu-u-b--focus {border-color: var(--border-focus);}
 
 /* Text */
-.nu-u-text--primary {color: var(--grey10);}
-.nu-u-text--primary-alt {color: var(--grey8);}
-.nu-u-text--secondary {color: var(--grey7);}
-.nu-u-text--secondary-alt {color: var(--grey5);}
+.nu-u-text--primary {color: var(--text-primary);}
+.nu-u-text--primary-alt {color: var(--text-primary-alt);}
+.nu-u-text--secondary {color: var(--text-secondary);}
+.nu-u-text--secondary-alt {color: var(--text-secondary-alt);}
 .nu-u-text--placeholder::placeholder, 
 .nu-u-text--placeholder::webkit-input-placeholder,
-.nu-u-text--placeholder:ms-input-placeholder {color: var(--grey4);}
-.nu-u-text--on-color {color: var(--white);}
-.nu-u-text--error {color: var(--red6);}
-.nu-u-text--success {color: var(--green6);}
+.nu-u-text--placeholder:ms-input-placeholder {color: var(--text-placeholder);}
+.nu-u-text--on-color {color: var(--text-on-color);}
+.nu-u-text--error {color: var(--text-error);}
+.nu-u-text--success {color: var(--text-success);}
 
 .nu-u-text-black {color: var(--black);}
 .nu-u-text-white {color: var(--white);}
 
 /* Icons */
-.nu-u-icon--primary {color: var(--grey9);}
-.nu-u-icon--secondary {color: var(--grey7);}
-.nu-u-icon--disabled {color: var(--grey4);}
-.nu-u-icon--on-color {color: var(--white);}
+.nu-u-icon--primary {color: var(--icon-primary);}
+.nu-u-icon--secondary {color: var(--icon-secondary);}
+.nu-u-icon--disabled {color: var(--icon-disabled);}
+.nu-u-icon--on-color {color: var(--icon-on-color);}
 
 /* Support */
-.nu-u-support--error {color: var(--red5);}
-.nu-u-support--warning {color: var(--yellow5);}
-.nu-u-support--success {color: var(--green5);}
-.nu-u-support--info {color: var(--blue5);}
+.nu-u-support--error {color: var(--support-error);}
+.nu-u-support--warning {color: var(--support-warning);}
+.nu-u-support--success {color: var(--support-success);}
+.nu-u-support--info {color: var(--support-blue);}
