@@ -32,6 +32,9 @@ To get started quickly, you can use the CDN files.
 - light
 - light--warm
 - light--cold
+- dark
+- dark--warm
+- dark--cold
 
 ## Build
 
