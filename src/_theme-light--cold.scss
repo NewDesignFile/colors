@@ -107,16 +107,27 @@
   --brown7: #544531;
   --brown8: #2D251A;
 
-  --cold1: #F2F4F8;
-  --cold2: #DDE1E6;
-  --cold3: #C1C7CD;
-  --cold4: #A2A9B0;
-  --cold5: #878D96;
-  --cold6: #697077;
-  --cold7: #4D5358;
-  --cold8: #343A3F;
-  --cold9: #21272A;
-  --cold10: #121619;
+  --grey1: #F2F4F8;
+  --grey2: #DDE1E6;
+  --grey3: #C1C7CD;
+  --grey4: #A2A9B0;
+  --grey5: #878D96;
+  --grey6: #697077;
+  --grey7: #4D5358;
+  --grey8: #343A3F;
+  --grey9: #21272A;
+  --grey10: #121619;
+
+  --cold1: var(--grey1);
+  --cold2: var(--grey2);
+  --cold3: var(--grey3);
+  --cold4: var(--grey4);
+  --cold5: var(--grey5);
+  --cold6: var(--grey6);
+  --cold7: var(--grey7);
+  --cold8: var(--grey8);
+  --cold9: var(--grey9);
+  --cold10: var(--grey10);
 
   --black: #000000;
   --white: #ffffff;
