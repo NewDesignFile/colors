@@ -138,18 +138,7 @@
   --background-hover: var(--cold1);
   --background-selected: var(--cold2);
   --background-selected-hover: var(--cold3);
-  --background-red: var(--red1);
-  --background-orange: var(--orange1);
-  --background-yellow: var(--yellow1);
-  --background-green: var(--green1);
-  --background-mint: var(--mint1);
-  --background-teal: var(--teal1);
-  --background-cyan: var(--cyan1);
-  --background-blue: var(--blue1);
-  --background-indigo: var(--indigo1);
-  --background-purple: var(--purple1);
-  --background-pink: var(--pink1);
-  --background-brown: var(--brown1);
+  --background-high-contrast: var(--white);
 
   // Borders
   --border-muted: var(--cold2);
@@ -160,15 +149,9 @@
   --border-focus: var(--blue5);
 
   // Buttons
-  --button-primary: var(--blue5);
-  --button-primary-hover: var(--blue6);
-  --button-primary-active: var(--blue7);
-  --button-secondary: var(--cold8);
-  --button-secondary-hover: var(--cold7);
-  --button-secondary-active: var(--cold6);
-  --button-danger: var(--red5);
-  --button-danger-hover: var(--red6);
-  --button-danger-active: var(--red7);
+  --button: var(--blue5);
+  --button-hover: var(--blue6);
+  --button-active: var(--blue7);
   --button-disabled: var(--cold4);
 
   // Icons
@@ -176,6 +159,7 @@
   --icon-secondary: var(--cold7);
   --icon-disabled: var(--cold4);
   --icon-on-color: var(--white);
+  --icon-inked: var(--black);
 
   // Links
   --link: var(--blue5);
@@ -191,11 +175,11 @@
 
   // Text
   --text-primary: var(--cold10);
-  --text-primary-alt: var(--cold8);
   --text-secondary: var(--cold7);
   --text-secondary-alt: var(--cold5);
   --text-placeholder: var(--cold4);
   --text-on-color: var(--white);
   --text-error: var(--red6);
   --text-success: var(--green6);
+  --text-inked: var(--black);
 }

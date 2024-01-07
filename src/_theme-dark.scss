@@ -127,44 +127,28 @@
   --background-hover: var(--grey9);
   --background-selected: var(--grey8);
   --background-selected-hover: var(--grey7);
-  --background-red: var(--red8);
-  --background-orange: var(--orange8);
-  --background-yellow: var(--yellow8);
-  --background-green: var(--green8);
-  --background-mint: var(--mint8);
-  --background-teal: var(--teal8);
-  --background-cyan: var(--cyan8);
-  --background-blue: var(--blue8);
-  --background-indigo: var(--indigo8);
-  --background-purple: var(--purple8);
-  --background-pink: var(--pink8);
-  --background-brown: var(--brown8);
+  --background-high-contrast: var(--black);
 
   // Borders
   --border-muted: var(--grey9);
   --border: var(--grey7);
   --border-strong: var(--grey6);
   --border-inked: var(--grey1);
-  --border-inverse: var(--white);
+  --border-inverse: var(--black);
   --border-focus: var(--blue4);
 
   // Buttons
-  --button-primary: var(--blue4);
-  --button-primary-hover: var(--blue3);
-  --button-primary-active: var(--blue3);
-  --button-secondary: var(--grey1);
-  --button-secondary-hover: var(--grey2);
-  --button-secondary-active: var(--grey3);
-  --button-danger: var(--red4);
-  --button-danger-hover: var(--red3);
-  --button-danger-active: var(--red3);
-  --button-disabled: var(--grey9);
+  --button: var(--blue4);
+  --button-hover: var(--blue3);
+  --button-active: var(--blue2);
+  --button-disabled: var(--grey8);
 
   // Icons
-  --icon-primary: var(--grey2);
+  --icon-primary: var(--grey1);
   --icon-secondary: var(--grey4);
   --icon-disabled: var(--grey8);
   --icon-on-color: var(--white);
+  --icon-inked: var(--white);
 
   // Links
   --link: var(--blue4);
@@ -180,11 +164,11 @@
 
   // Text
   --text-primary: var(--grey1);
-  --text-primary-alt: var(--grey3);
-  --text-secondary: var(--grey5);
+  --text-secondary: var(--grey4);
   --text-secondary-alt: var(--grey6);
   --text-placeholder: var(--grey7);
   --text-on-color: var(--white);
   --text-error: var(--red4);
   --text-success: var(--green4);
+  --text-inked: var(--white);
 }
