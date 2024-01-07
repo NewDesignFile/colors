@@ -1,7 +1,5 @@
 # New UI Colors
 
-![](assets/cover.png)
-
 ## Install
 Install New UI Colors from your terminal via npm.
 
@@ -45,18 +43,6 @@ npm install
 npm run build
 ```
 
-## Recommended Defaults
-Refer to the Figma file for the color tokens cheatsheet.
-
-[Get a Figma copy](https://www.figma.com/community/file/1179503548902179413)
-
-## Usage Guide
-
-- Tokens defined in the figma file matches variables declared in CSS
-- All classes associated with the design system are prefixed with a global namespace followed by a hyphen: `nu-`
-- In addition to a global namespace, we added prefixes to each class to make it more apparent what job that class is doing using BEM syntax
-  * `c-` for UI components, such as `.nu-c-h1` or `.nu-c-card`
-  * `l-` for layout-related styles, such as `.nu-l-grid__item` or `.nu-l--two-column`
-  * `u-` for utilities, such as `.nu-u-mb-<spacing-token>` or `.nu-u-margin-bottom-pt2`
-  * `is-` and has- for specific states, such as `.nu-is-active` or `.nu-is-disabled`. These state-based classes - would apply to
-  * `js-` for targeting JavaScript-specific functionality, such as `.js-modal-trigger`. No styles are bound to these classes; they’re reserved for behavior only. For most cases, these `js-` classes would toggle - state-based classes to an element.
+## Guides
+- [Get a Figma copy](https://www.figma.com/community/file/1325646289622213496/new-ui)
+- [Read our colors guide](https://new-ui.com/docs/foundations/colors)
