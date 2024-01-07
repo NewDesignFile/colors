@@ -34,6 +34,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
     "autoprefixer": "^10.4.13",
-    "parcel": "^2.8.3"
+    "parcel": "^2.8.3",
+    "caniuse-lite": "^1.0.30001574"
   }
 }
