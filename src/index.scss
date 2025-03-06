@@ -1,8 +1,8 @@
-@import 'theme-light';
-@import 'theme-light--warm';
-@import 'theme-light--cold';
-@import 'theme-dark';
-@import 'theme-dark--warm';
-@import 'theme-dark--cold';
-@import 'utilities';
-@import 'components';
+@use 'theme-light';
+@use 'theme-light--warm';
+@use 'theme-light--cold';
+@use 'theme-dark';
+@use 'theme-dark--warm';
+@use 'theme-dark--cold';
+@use 'utilities';
+@use 'components';

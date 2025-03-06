@@ -18,7 +18,7 @@ To get started quickly, you can use the CDN files.
 
 ```scss
 // Place this at the top of your SCSS/CSS file
-@import "@new-ui/colors";
+@use "@new-ui/colors";
 ```
 
 ```html
@@ -44,5 +44,4 @@ npm run build
 ```
 
 ## Guides
-- [Get a Figma copy](https://www.figma.com/community/file/1325646289622213496/new-ui)
 - [Read our colors guide](https://new-ui.com/docs/foundations/colors)
