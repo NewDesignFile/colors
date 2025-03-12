@@ -107,16 +107,16 @@
   --brown7: #544531;
   --brown8: #2D251A;
 
-  --grey1: #F7F3F2;
-  --grey2: #E5E0DF;
-  --grey3: #CAC5C4;
-  --grey4: #ADA8A8;
-  --grey5: #8F8B8B;
-  --grey6: #726E6E;
-  --grey7: #565151;
-  --grey8: #3C3838;
-  --grey9: #272525;
-  --grey10: #171414;
+  --grey1: oklch(96.7% 0.0045 34.31);
+  --grey2: oklch(91.03% 0.0056 31.05);
+  --grey3: oklch(82.72% 0.0058 31.06);
+  --grey4: oklch(73.57% 0.0058 17.29);
+  --grey5: oklch(64.02% 0.0048 17.28);
+  --grey6: oklch(54.18% 0.005 17.31);
+  --grey7: oklch(43.97% 0.0066 17.41);
+  --grey8: oklch(34.48% 0.0056 17.43);
+  --grey9: oklch(26.66% 0.003 17.34);
+  --grey10: oklch(19.48% 0.0049 17.58);
 
   --warm1: var(--grey1);
   --warm2: var(--grey2);
