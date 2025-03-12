@@ -129,8 +129,8 @@
   --cold9: var(--grey9);
   --cold10: var(--grey10);
 
-  --black: #000000;
-  --white: #ffffff;
+  --black: oklch(0% 0 0);
+  --white: oklch(100% 0 0);
 
   // Backgrounds
   --background: var(--cold10);
